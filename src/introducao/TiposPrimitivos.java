@@ -24,5 +24,13 @@ public class TiposPrimitivos {
         System.out.println("Character : " + caractere);
         System.out.println("Name: " + name);
         System.out.println("Age (Var): " + ageVar);
+
+
+        //Exercício:
+        String nameUser = "Rafael";
+        boolean recebeuSalario = true;
+        String endereco = "Rua das Flores, 123";
+        double salario = 5000.00;
+        System.out.println("Eu " + nameUser + " morando no " + endereco +" Confirmo que recebi o salário de R$ " + salario + " este mês:" + recebeuSalario);
     }
 }
