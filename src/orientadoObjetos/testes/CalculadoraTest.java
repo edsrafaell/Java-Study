@@ -6,5 +6,6 @@ public class CalculadoraTest {
         Calculadora calculadora = new Calculadora();
         calculadora.somaDoisNumeros();
         System.out.println("Finalizando!");
+        calculadora.multiplicaDoisNumeros(10, 21);
     }
 }
