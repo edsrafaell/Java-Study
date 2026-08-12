@@ -7,7 +7,7 @@ public class arrays04 {
         mes[0][0] = 31;
         mes[0][1] = 30;
         
-        mes[1][0] = 30
+        mes[1][0] = 30;
         mes[1][1] = 20;
 
         for (int i = 0; i < mes.length; i++){
